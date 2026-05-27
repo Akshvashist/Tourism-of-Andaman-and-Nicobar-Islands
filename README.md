@@ -1,4 +1,3 @@
-# Tourism-of-Andaman-and-Nicobar-Islands
 # Torusim-of-Andman-Nicobar-Island
 
 <h3>Team Leader: </h3> 
